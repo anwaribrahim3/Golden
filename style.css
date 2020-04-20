@@ -5,7 +5,7 @@ body{
 
 .background_image{
     
-    background-image: url(home_02.jpg);
+    background-image: url(assets/home_02.jpg);
     background-position:50% 0px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -219,7 +219,7 @@ margin-block-start: 0em;
 .slide2 .background{
     position: absolute;
     max-width: 55.2%;
-    background-image: url(hero_03.jpg);
+    background-image: url(assets/hero_03.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -253,7 +253,7 @@ margin-block-start: 0em;
 }
 .slide3 .card .card1{
     width: 27.3333%;
-    background-image: url(card1.png);
+    background-image: url(assets/card1.png);
     background-repeat: no-repeat;
     background-color:#eff3f4 ;
     /*background-size: cover;*/
@@ -261,7 +261,7 @@ margin-block-start: 0em;
 }
 .slide3 .card .card2{
     width: 27.3333%;
-    background-image: url(card2.png);
+    background-image: url(assets/card2.png);
     background-repeat: no-repeat;
     background-color:#eff3f4 ;
     
@@ -271,7 +271,7 @@ margin-block-start: 0em;
 }
 .slide3 .card .card3{
     width: 27.3333%;
-    background-image: url(card3.png);
+    background-image: url(assets/card3.png);
 background-repeat: no-repeat;
 background-color:#eff3f4 ;
     
@@ -310,7 +310,7 @@ background-color:#eff3f4 ;
 
 }
 .slide4 .left .bg{
-    background-image: url(hero_04.jpg);
+    background-image: url(assets/hero_04.jpg);
     height: 110vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -394,7 +394,7 @@ background-color:#eff3f4 ;
 }
 .slide6 .card .card1{
     width: 22%;
-    background-image: url(s6card1.jpg);
+    background-image: url(assets/s6card1.jpg);
     background-repeat: no-repeat;
 background-color: #fff;
     background-size: 100%;
@@ -402,7 +402,7 @@ background-color: #fff;
 }
 .slide6 .card .card2{
     width:22%;
-    background-image: url(s6card2.jpg);
+    background-image: url(assets/s6card2.jpg);
     background-repeat: no-repeat;
       background-size: 100%;
 background-color: #fff;
@@ -411,14 +411,14 @@ background-color: #fff;
 }
 .slide6 .card .card3{
     width: 22%;
-    background-image: url(s6card3.jpg);
+    background-image: url(assets/s6card3.jpg);
 background-repeat: no-repeat;
       background-size: 100%;
       background-color: #fff;
 }
 .slide6 .card .card4{
     width: 22%;
-    background-image: url(s6card4.jpg);
+    background-image: url(assets/s6card4.jpg);
 background-repeat: no-repeat;
 background-color: #fff;
       background-size: 100%;
